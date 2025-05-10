@@ -150,6 +150,73 @@ Any mission-driven organization can adopt AZTF by customizing provided IaC templ
 
 ---
 
+**Whitepaper: Adaptive Zero Trust Framework (AZTF)**
+**Securing Mission-Driven Organizations Through Scalable, Cloud-Native Innovation**
+**Author:** Saugat Sthapit
+**Organizations Utilizing AZTF:** Southern Poverty Law Center (SPLC), FHI360, Autism Society of America, OUR Rescue
+
+---
+
+## Executive Summary
+
+In today’s evolving threat landscape, mission-driven organizations—such as nonprofits, healthcare providers, and educational institutions—face a disproportionate burden in securing digital assets. With sensitive data, limited budgets, and rising cyber threats, these organizations require a new breed of cybersecurity architecture. The **Adaptive Zero Trust Framework (AZTF)** is an answer tailored to this need: a **scalable, cloud-native, Microsoft-integrated** solution with proven success at the Southern Poverty Law Center (SPLC), FHI360, Autism Society of America, and OUR Rescue.
+
+AZTF goes beyond traditional Zero Trust models by integrating **AI readiness, identity-first access control, policy-based automation, and modular architecture**. This 10-page whitepaper presents AZTF as a replicable blueprint for organizations worldwide, detailing its design, use cases, metrics, roadmap, and sectoral impact.
+
+---
+
+## 9A. New Use Cases and Sector Expansion
+
+### 9A.1 Autism Society of America
+
+**Organizational Focus:** Advocacy, support, and education for individuals with autism and their families.
+
+**Security Needs:**
+
+* Protect sensitive donor and medical partnership data
+* Secure digital engagement platforms and event registration portals
+* Ensure inclusive, secure digital access for neurodiverse users
+
+**AZTF Integration Highlights:**
+
+* Azure Entra ID-based role segmentation for volunteers, staff, and community partners
+* Microsoft Purview to classify donor records and event participation history
+* Conditional Access policies to mitigate risk of credential-based attacks on public portals
+* Secure collaboration via Microsoft Teams with data leakage protection
+
+**Results & Impact:**
+
+* Enhanced donor trust through transparent data controls
+* Compliance improvements aligned with nonprofit best practices
+* Improved internal collaboration with protected identity and data zones
+
+---
+
+### 9A.2 OUR Rescue (Operation Underground Railroad)
+
+**Organizational Focus:** Anti-human trafficking and victim rescue operations worldwide
+
+**Security Needs:**
+
+* Protect sensitive operational intelligence and rescue mission plans
+* Coordinate securely with law enforcement and field teams in real-time
+* Comply with data protection laws across jurisdictions (GDPR, U.S. State Privacy Acts)
+
+**AZTF Integration Highlights:**
+
+* Network isolation and Zero Trust segmentation for field operation data
+* Secure file sharing and data vaulting for mission-critical communications
+* Sentinel playbooks to detect and respond to data exfiltration attempts
+* Defender for Endpoint deployed on field laptops and mobile devices
+
+**Results & Impact:**
+
+* Reduced operational risk during multi-country missions
+* Enhanced coordination without sacrificing data confidentiality
+* Ability to conduct post-operation audits with immutable audit logs
+
+---
+
 ### Conclusion
 
 AZTF is not just a framework. It is a blueprint for **democratizing cybersecurity** in the age of AI, SaaS, and data privacy mandates. By proving success at SPLC and FHI360, AZTF demonstrates that **Zero Trust can be impactful without being expensive**. Its modular, extensible, and Microsoft-native architecture offers a future-ready foundation for organizations that serve the public good.
