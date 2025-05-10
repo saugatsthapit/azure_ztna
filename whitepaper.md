@@ -25,6 +25,7 @@ However, conventional Zero Trust implementations often require significant capit
 * Offers **modular, replicable deployment** models.
 
 AZTF is the first known Zero Trust framework built specifically with these conditions in mind.
+![image](https://github.com/user-attachments/assets/898cfcab-3e5a-4b92-94be-c679547809a5)
 
 ---
 
