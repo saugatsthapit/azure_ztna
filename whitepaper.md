@@ -1,7 +1,7 @@
 **Whitepaper: Adaptive Zero Trust Framework (AZTF)**
 **Securing Mission-Driven Organizations Through Scalable, Cloud-Native Innovation**
 **Author:** Saugat Sthapit
-**Organizations Actively Using AZTF:** Southern Poverty Law Center (SPLC), FHI360
+**Organizations Actively Using AZTF:** Southern Poverty Law Center (SPLC), FHI360, Autism Society of America, Our Rescue
 
 ---
 
